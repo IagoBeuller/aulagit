@@ -1,2 +1,2 @@
 Testando commit.
-Errando mensagem do commit.
+Commit para merge.
